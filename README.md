@@ -1,8 +1,6 @@
 ### Olá 👋, me chamo Gabriel Pinheiro Santos
 
-Sou um estudante de Ciência da Computação e apaixonado em Frontend e Design.
+Trabalho atualmente como desenvolvedor Frontend e estou cursando Ciência da Computação.
 
 ## Socials
 - [Linkedin](https://www.linkedin.com/in/gabriel-pinheiro-santos-569917271/)
-- [Behance](https://www.behance.net/gabrielpinheiro55)
-
